@@ -1,0 +1,8 @@
+requests
+streamlit
+plotly
+numpy
+pandas
+apscheduler
+openai
+climate-indices @ git+https://github.com/monocongo/climate-indices.git
